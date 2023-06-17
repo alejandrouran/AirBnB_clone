@@ -8,6 +8,10 @@ This is the most updated and complete sample of the project since the project wa
 
 ![](./images/web_dynamic_diagram.png)
 
+### Screenshot
+
+![](./images/Captura.png)
+
 ## Previous versions
 
 * holbertonschool-AirBnB_clone
