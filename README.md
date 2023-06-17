@@ -25,12 +25,9 @@ This is the most updated and complete sample of the project since the project wa
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-# Iterations
-
 # Install
 
-* Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
+* Clone this repository: `git clone "https://github.com/alejuran/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
@@ -78,17 +75,13 @@ Although the Server Side Render with Flask and Jinja was interesting, this secti
 
 This Application Programming Interface was built with Flask and SQLAlchemy in order to work with MySQL and respond to HTTP requests.
 
-
-
 The endpoints can be seen below.
-
 
 ## Web Dynamic
 
 This was the final iteration of the project and consisted in changing the Server Side Render for Client Based Render using JavaScript with jQuery, and the RESTful API from before.
 
-
-# About Myself
+## About Myself
 
 I am a software developer with a passion for technology and an insatiable curiosity for understanding how things work from the inside.
 
